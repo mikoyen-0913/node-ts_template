@@ -1,5 +1,6 @@
 import { Rational } from "./class/Rational";
 
+
 const main = (): void => {
   
   /**
